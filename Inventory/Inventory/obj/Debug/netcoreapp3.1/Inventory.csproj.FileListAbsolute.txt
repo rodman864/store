@@ -1,0 +1,12 @@
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.csprojAssemblyReference.cache
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.AssemblyInfoInputs.cache
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.AssemblyInfo.cs
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.csproj.CoreCompileInputs.cache
+/Users/antonio/Desktop/CS133/Inventory/Inventory/bin/Debug/netcoreapp3.1/Inventory.deps.json
+/Users/antonio/Desktop/CS133/Inventory/Inventory/bin/Debug/netcoreapp3.1/Inventory.runtimeconfig.json
+/Users/antonio/Desktop/CS133/Inventory/Inventory/bin/Debug/netcoreapp3.1/Inventory.runtimeconfig.dev.json
+/Users/antonio/Desktop/CS133/Inventory/Inventory/bin/Debug/netcoreapp3.1/Inventory.dll
+/Users/antonio/Desktop/CS133/Inventory/Inventory/bin/Debug/netcoreapp3.1/Inventory.pdb
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.dll
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.pdb
+/Users/antonio/Desktop/CS133/Inventory/Inventory/obj/Debug/netcoreapp3.1/Inventory.genruntimeconfig.cache
